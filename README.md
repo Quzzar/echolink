@@ -8,7 +8,7 @@ Utilize Echolinks for discreet communication with friends sharing your frequency
 
 Local chat is enabled by default, with fully configurable ranges. As you distance yourself from others, their messages will naturally become less clear and harder to decipher.
 
-<em>Everything is fully configurable and toggleable. Check the ``config.yml`` for details.</em>
+<em>Everything is fully configurable and toggleable (including item texture). Check the ``config.yml`` for details.</em>
 
 
 ### Recipe <em>(configurable)</em>
