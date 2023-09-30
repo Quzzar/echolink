@@ -34,4 +34,4 @@ Only Echolinks with the same frequency can communicate with each other <em>so pr
  - ``echolink.prefix.<RANK>``: Gives the indicated rank prefix, see config.yml for details
 
 ---
-<sup>This is a rework of my original plugin, [RPChat](https://github.com/Quzzar/Minecraft-Plugins/tree/main).</sup>
+<sup>This is a rework of my original plugin, [RPChat](https://github.com/Quzzar/Minecraft-Plugins/tree/main/RPChat).</sup>
