@@ -19,6 +19,12 @@ This is a shapeless recipe but <b>the ingredient order determines the Echolink's
 <br />
 Only Echolinks with the same frequency can communicate with each other <em>so protect your recipe order!</em> 
 
+### How It Works
+When you send a message while an Echolink is in your hot bar, offhand, or on your head, it will send that message through the Echolink's channel instead.
+Anyone who also has an Echolink of that same frequency anywhere in their inventory will receive your message.
+
+You can send messages through multiple Echolink channels at the same time, just put them in your hot bar!
+
 ### Commands
  - ``/shout`` or ``/s``: Say your message loudly, increasing the range of people who can hear you!
  - ``/whisper`` or ``/w``: Say your message quietly, only people nearby can hear.
