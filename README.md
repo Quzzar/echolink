@@ -13,6 +13,7 @@ Local chat is enabled by default, with fully configurable ranges. As you distanc
 
 ### Recipe <em>(configurable)</em>
 ![Echolink Item Recipe](https://i.imgur.com/begI2FO.jpg "Echolink Item Recipe")
+<br />
 <em>Amethyst shard, lightning rod, echo shard, nautilus shell, block of copper, emerald, redstone dust, iron bars, redstone torch.</em>
 <br />
 <br />
