@@ -1,0 +1,32 @@
+name: Echolink
+version: '${project.version}'
+main: com.quzzar.echolink.Echolink
+api-version: '1.20'
+author: Quzzar
+description: Overhaul chat with proximity-based communication and an echolink item to connect with others on the same frequency. Stay in sync and strategize effortlessly.
+commands:
+  staff:
+    description: Send a message in the staff channel
+  shout:
+    description: Send a message to everyone in a large area around you
+  s:
+    description: Send a message to everyone in a large area around you
+  whisper:
+    description: Send a message to everyone nearby you
+  w:
+    description: Send a message to everyone nearby you
+  tell:
+    description: Send a player a message
+permissions:
+  echolink.staffchat:
+    description: Allows chatting in the staff channel
+    default: op
+  echolink.whisper:
+    description: Allows usage of whisper command
+    default: true
+  echolink.shout:
+    description: Allows usage of shout command
+    default: true
+  echolink.tell:
+    description: Allows usage of tell command
+    default: op

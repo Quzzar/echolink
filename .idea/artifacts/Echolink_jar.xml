@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Echolink:jar">
+    <output-path>$USER_HOME$/Servers/Paper 1.20/plugins</output-path>
+    <root id="archive" name="Echolink.jar">
+      <element id="module-output" name="Echolink" />
+    </root>
+  </artifact>
+</component>
