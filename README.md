@@ -1,7 +1,6 @@
 ![Echolink](https://i.imgur.com/JxlbNpv.png "Echolink")
 
 > <em>Overhaul chat with proximity-based communication and an echolink item to connect with others on the same frequency. Stay in sync and strategize effortlessly.</em>
-
 ---
 ### Overview
 Utilize Echolinks for discreet communication with friends sharing your frequency. The Echolink recipe is shapeless; arranging the ingredients in different sequences creates unique frequencies—so safeguard your recipe!
@@ -9,7 +8,6 @@ Utilize Echolinks for discreet communication with friends sharing your frequency
 Local chat is enabled by default, with fully configurable ranges. As you distance yourself from others, their messages will naturally become less clear and harder to decipher.
 
 <em>Everything is fully configurable and toggleable (including item texture). Check the ``config.yml`` for details.</em>
-
 
 ### Recipe <em>(configurable)</em>
 ![Echolink Item Recipe](https://i.imgur.com/begI2FO.jpg "Echolink Item Recipe")
@@ -35,3 +33,5 @@ Only Echolinks with the same frequency can communicate with each other <em>so pr
  - ``echolink.staffchat``: Access to the staff channel and usage of /staff command, op only by default
  - ``echolink.prefix.<RANK>``: Gives the indicated rank prefix, see config.yml for details
 
+---
+<sup>This is a rework of my original plugin, [RPChat](https://github.com/Quzzar/Minecraft-Plugins/tree/main).</sup>
